@@ -1,6 +1,6 @@
-# Anexo: Guía Rápida de Lógica en MATLAB
+# Anexo: Guía Rápida de Lógica en MATLAB®
 
-Esta guía explica cómo "enseñarle" a MATLAB a tomar decisiones y a repetir tareas automáticamente. 
+Esta guía explica cómo "enseñarle" a MATLAB® a tomar decisiones y a repetir tareas automáticamente. 
 
 ---
 
@@ -17,7 +17,7 @@ end
 ```
 
 ### El camino alternativo: else
-Si la condición no se cumple, puedes decirle a MATLAB que tome otro camino usando `else` (que significa "si no...").
+Si la condición no se cumple, puedes decirle a MATLAB® que tome otro camino usando `else` (que significa "si no...").
 
 ```matlab
 if condicion
@@ -73,7 +73,7 @@ end
 
 ## 3. Operadores Lógicos
 
-Para que el `if` funcione, debes saber cómo comparar valores. Aquí están los símbolos que MATLAB entiende:
+Para que el `if` funcione, debes saber cómo comparar valores. Aquí están los símbolos que MATLAB® entiende:
 
 | Símbolo | Significado | ¿Cómo se lee? |
 | :--- | :--- | :--- |
@@ -89,7 +89,7 @@ Para que el `if` funcione, debes saber cómo comparar valores. Aquí están los 
 
 * **El Cierre Eterno:** Cada bloque `if` o `for` es como una caja. Si la abres, tienes que cerrarla con un `end`. *Si te falta uno solo, el programa fallará.*
 * **La Sangría (Indentación):** Nota que el código dentro del `if` o `for` está un poco más a la derecha. Eso se hace con la tecla **Tab** (arriba de Bloq Mayús) y sirve para que tú y otras personas puedan leer el código sin marearse.
-* **Higiene:** Usa el punto y coma (`;`) al final de las operaciones dentro de un `for` para que MATLAB no te llene la pantalla de números cada vez que da una vuelta.
+* **Higiene:** Usa el punto y coma (`;`) al final de las operaciones dentro de un `for` para que MATLAB® no te llene la pantalla de números cada vez que da una vuelta.
 
 ---
-***Material de apoyo para el Workshop de MATLAB - IEEE PES UdeC***
+***Material de apoyo para el Workshop de MATLAB® - IEEE PES UdeC***
