@@ -8,7 +8,7 @@
 
 ---
 
-![Estado](https://img.shields.io/badge/Estado-Presentación-orange?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Completado_/_Documentado-orange?style=for-the-badge)
 ![Nivel](https://img.shields.io/badge/Nivel-Básico_/_Introducción-1b5e20?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/Entorno-MATLAB®-blue?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Acceso](https://img.shields.io/badge/Acceso-Cuenta_UdeC-003366?style=for-the-badge)
@@ -32,16 +32,26 @@ Aprenderás:
 
 ---
 
-## 📋 Requisitos de Preparación
-Para asegurar el flujo del taller, es **obligatorio** completar los siguientes pasos antes de asistir:
+## 📚 Biblioteca de Recursos
 
-1. **Cuenta MathWorks:** En caso de contar con un notebook durante el taller **(opcional pero muy recomendado)**. Será necesario crear y vincular tu cuenta con correo institucional **@udec.cl**.
-   > 🔗 [Ver guía paso a paso: Obtención de Cuenta](docs/preparacion/cuenta_mathworks.md)
-   
-2. **Inscripción:** Registrarse en el formulario oficial para coordinar aforo (en caso de no haberlo hecho previamente).
-   > 🔗 [Formulario de Inscripción aquí](url)
+Este repositorio ha sido organizado para servir como material de consulta permanente y guía de aprendizaje autónomo.
 
-3. **Uso del Material:** Dentro de MATLAB®/MATLAB® Online en la pestaña ***Home*** da a la opción ***New***, selecciona ***Git Clone*** y utiliza el link del repositorio (*https://github.com/joshua-oliva/pes-udec-workshop-matlab*).
+### 🎓 Guía del Estudiante
+Si quieres realizar el taller por tu cuenta, este es el punto de partida:
+* 📖 **[Guía del Estudiante](docs/guia_estudiante.md):** Contiene las instrucciones para **clonar este repositorio en MATLAB® Online** y el paso a paso detallado para completar los desafíos.
+* 📄 **[Presentación del Taller](presentacion.pdf):** Apoyo visual con los conceptos teóricos fundamentales.
+* 📋 **[Cuenta MathWorks](docs/preparacion/cuenta_mathworks.md):** Instrucciones para configurar tu licencia institucional @udec.cl.
+
+### 🌟 Recursos Post-Taller
+Para quienes ya completaron las actividades principales del taller:
+* 📚 **[Anexo Lógica](docs/anexos/bloques-if-for.md):** Explicación detallada sobre la sintaxis de los bloques `if` y `for`.
+* 🛠️ **[MATLAB® Cheatsheet](docs/recursos/cheatsheet.md):** Hoja de acceso rápido con la sintaxis esencial de arreglos, tablas y gráficos dictada en el taller.
+
+<!-- ---
+
+## 👨‍🏫 Información para Instructores
+Si deseas replicar esta actividad o utilizar este material en una sesión dirigida:
+* **Manual del Instructor:** Revisa la [Guía del Instructor](docs/guias/guia_instructor.md) para conocer la gestión de tiempos, tips pedagógicos y acceso a las soluciones de los scripts. -->
 
 ---
 
